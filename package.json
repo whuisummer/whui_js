@@ -28,6 +28,7 @@
     ]
   },
   "dependencies": {
+    "cowsay": "^1.5.0",
     "react": "^16.12.0"
   },
   "devDependencies": {
